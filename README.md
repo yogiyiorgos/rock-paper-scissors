@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Assigned project for The Odin Project
+Assigned project from The Odin Project
